@@ -1,0 +1,15 @@
+body {background-color: rgb(255, 254, 242);}
+
+.jumbotron {
+    background-image: url("/static/images/green.jpeg");
+    background-size: cover;
+}
+.col-md-5 {
+    background-color: rgb(255, 254, 242);
+}
+h1{
+    color: #ffffff !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px #000000;
+  }
+
